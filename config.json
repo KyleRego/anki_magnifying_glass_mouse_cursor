@@ -1,0 +1,9 @@
+{
+"larger square side length (pixels)": 400, 
+"smaller square side length (pixels)": 200,
+"positive-x crosshair length (pixels)": 5,
+"negative-x crosshair length (pixels)": 5,
+"positive-y crosshair length (pixels)": 5,
+"negative-y crosshair length (pixels)": 5,
+"delay to turn off zoom mouse (milliseconds)": 500
+}
